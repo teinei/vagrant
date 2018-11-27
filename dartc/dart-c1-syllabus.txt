@@ -21,7 +21,13 @@
     1106b Activity: print special characters
     1106c A question on this activity?
   1107 Repeating one instruction with a for loop
+    Repeat one instruction with a for loop
+    Activity: use a for-loop to print a line multiple times
+    A question on this activity?
   1108 Simple looping errors
+    Discover the effect of simple looping errors
+    Activity: correct simple errors in loops with missing braces
+    A question on this activity?
   1109 Commenting your code
   11x0 Structure of a simple C program
   11x1 Learning checklist
